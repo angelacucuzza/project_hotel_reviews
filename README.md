@@ -81,15 +81,3 @@ Documento di sintesi direzionale che raccoglie le conclusioni dello studio.
 •	Libraries: Pandas, NumPy, SQLAlchemy, Seaborn, Matplotlib.
 
 •	Infrastructure: Database relazionale (SQL Server/PostgreSQL).
-
-________________________________________
-
-Note di Installazione
-
-1.	Clonare la repository.
-
-2.	Scaricare il dataset da Kaggle e inserirlo nella cartella radice.
-
-3.	Eseguire i moduli seguendo l'ordine numerico (1-5).
-
-4.	Consultare il Final_report per una visione d'insieme dei risultati ottenuti.
